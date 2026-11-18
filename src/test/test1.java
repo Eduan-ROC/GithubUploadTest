@@ -6,5 +6,6 @@ public class test1
     {
         System.out.println("hoi");
         System.out.println("Dit is een verandering");
+        System.out.println("dit is nog een verandering");
     }
 }
